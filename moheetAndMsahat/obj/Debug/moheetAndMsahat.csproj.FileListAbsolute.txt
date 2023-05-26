@@ -1,0 +1,7 @@
+C:\Users\M.Aslani\source\repos\moheetAndMsahat\moheetAndMsahat\bin\Debug\moheetAndMsahat.exe.config
+C:\Users\M.Aslani\source\repos\moheetAndMsahat\moheetAndMsahat\bin\Debug\moheetAndMsahat.exe
+C:\Users\M.Aslani\source\repos\moheetAndMsahat\moheetAndMsahat\bin\Debug\moheetAndMsahat.pdb
+C:\Users\M.Aslani\source\repos\moheetAndMsahat\moheetAndMsahat\obj\Debug\moheetAndMsahat.csprojAssemblyReference.cache
+C:\Users\M.Aslani\source\repos\moheetAndMsahat\moheetAndMsahat\obj\Debug\moheetAndMsahat.csproj.CoreCompileInputs.cache
+C:\Users\M.Aslani\source\repos\moheetAndMsahat\moheetAndMsahat\obj\Debug\moheetAndMsahat.exe
+C:\Users\M.Aslani\source\repos\moheetAndMsahat\moheetAndMsahat\obj\Debug\moheetAndMsahat.pdb
